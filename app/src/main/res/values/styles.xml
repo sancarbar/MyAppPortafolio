@@ -1,0 +1,16 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+  </style>
+
+  <style name="orange_button" parent="Widget.AppCompat.Button">
+    <item name="android:layout_marginLeft">20dp</item>
+    <item name="android:layout_marginRight">20dp</item>
+    <item name="android:layout_marginBottom">10dp</item>
+    <item name="android:background">@color/orange</item>
+    <item name="android:textColor">@color/black</item>
+
+  </style>
+</resources>
